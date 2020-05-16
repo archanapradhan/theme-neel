@@ -1,0 +1,65 @@
+// United 4.5.0
+// Bootswatch
+
+//
+// Color system
+//
+
+$white: #fff !default;
+$gray-100: #f8f9fa !default;
+$gray-200: #e9ecef !default;
+$gray-300: #dee2e6 !default;
+$gray-400: #ced4da !default;
+$gray-500: #aea79f !default;
+$gray-600: #cbd1d6 !default;
+$gray-700: #495057 !default;
+$gray-800: #333 !default;
+$gray-900: #212529 !default;
+$black: #000 !default;
+
+$blue: #007bff !default;
+$indigo: #6610f2 !default;
+$purple: #692b4d !default;
+$pink: #e83e8c !default;
+$red: #df382c !default;
+$orange: #e95420 !default;
+$yellow: #efb73e !default;
+$green: #159720 !default;
+$teal: #147974 !default;
+$cyan: #229bb1 !default;
+
+$a1: #f8f8f8 !default;
+$a2: #1e1c91 !default;
+$a3: #06063b !default;
+$a4: #15166c !default;
+$a5: #42b5e2 !default;
+$a6: #3e3ca0 !default;
+$a7: #838257 !default;
+$a8: #575456 !default;
+$a9: #157b8d !default;
+
+$primary: $a3 !default;
+$secondary: $a6 !default;
+$success: $green !default;
+$info: $a9 !default;
+$warning: $yellow !default;
+$danger: $red !default;
+$light: $gray-200 !default;
+$dark: $purple !default;
+
+$yiq-contrasted-threshold: 200 !default;
+
+// Body
+$body-bg: $a5;
+$body-color: $a3 !default;
+
+// Fonts
+
+$font-family-sans-serif: "Ubuntu", -apple-system, BlinkMacSystemFont, "Segoe UI",
+  Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+  "Segoe UI Emoji", "Segoe UI Symbol" !default;
+
+// Tables
+
+$table-dark-bg: $dark !default;
+$table-dark-border-color: darken($dark, 5%) !default;
