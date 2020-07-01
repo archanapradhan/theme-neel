@@ -7,7 +7,7 @@ class Theme extends Component {
         <div className="page-header" id="banner">
           <div className="row">
             <div className="col-lg-8 col-md-7 col-sm-6">
-              <h1>Neelam</h1>
+              <h1>Neel</h1>
               <p className="lead">A soft sky blue with contrast controls</p>
             </div>
           </div>
